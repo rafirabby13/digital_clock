@@ -8,8 +8,9 @@
 .hero{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(45deg, #08001f, #30197d);
-    color: #fff;
+    background: linear-gradient(45deg, #b6048d6d, #64e969);
+    background-color: #67dff441;
+    color: #ffffff;
     position: relative;
 }
 
